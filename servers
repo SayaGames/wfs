@@ -1,5 +1,6 @@
 {
-["server1" : "http",
-"server2" : "https"
+ "map" : [
+{"server1" : "http"},
+{"server2" : "https"}
 ]
 }
