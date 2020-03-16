@@ -1,6 +1,6 @@
 {
  "map" : [
-{"server1" : "http"},
-{"server2" : "https"}
+{"serverByCountry" : "https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/ncov_cases/FeatureServer/2/"},
+{"serverByCountryRegion" : "https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/ncov_cases/FeatureServer/1/"}
 ]
 }
